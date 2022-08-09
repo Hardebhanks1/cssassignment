@@ -1,2 +1,2 @@
 # cssassignment
-https://github.com/Hardebhanks1/cssassignment.git
+https://hardebhanks1.github.io/cssassignment/
